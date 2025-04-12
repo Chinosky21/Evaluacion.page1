@@ -1,7 +1,10 @@
     *{
         margin: 0px;
-        padding: 0px;
+        width: 100%;
     font-family: "Roboto", Arial, Tahoma, sans-serif;
+}
+.connav{
+    width: 100%;
 }
 /* Header and Nav */
 header{
