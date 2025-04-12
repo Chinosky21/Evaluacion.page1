@@ -6,7 +6,7 @@ function Navbar() {
             <li><a href="../index.html">Inicio</a></li>
             <li><a href="../Nosotros.html">Nosotros</a></li>
             <li><a href="">Productos</a></li>
-            <li><a href="">Contactos</a></li>
+            <li><a href="../contacto.html">Contactos</a></li>
             </ul>
         </nav>
     </div>
