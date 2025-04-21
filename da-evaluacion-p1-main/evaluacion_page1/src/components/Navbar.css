@@ -14,7 +14,7 @@ header{
     background-color: #F7F9FA;
 }
 nav{
-    max-width: 1024px;
+    max-width: 100%;
     margin: 1 auto;
 }
 header img{

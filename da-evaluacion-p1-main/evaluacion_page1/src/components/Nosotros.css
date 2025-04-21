@@ -3,7 +3,7 @@
   }
   
   .login-form {
-    width: 90%;
+    width: 75%;
     padding: 50px;
     flex-direction: column;
     justify-content: center;
@@ -67,4 +67,7 @@
     
     display: flex;
     justify-content: center; /* Centra horizontalmente */
+  }
+  .letras{
+    color: #333;
   }
